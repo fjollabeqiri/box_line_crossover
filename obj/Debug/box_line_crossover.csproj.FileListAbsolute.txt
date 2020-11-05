@@ -1,0 +1,9 @@
+C:\Users\Asus\Documents\box_line_crossover\bin\Debug\box_line_crossover.exe.config
+C:\Users\Asus\Documents\box_line_crossover\bin\Debug\box_line_crossover.exe
+C:\Users\Asus\Documents\box_line_crossover\bin\Debug\box_line_crossover.pdb
+C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.Properties.Resources.resources
+C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.exe
+C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.pdb
