@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace box_line_crossover
@@ -34,9 +27,21 @@ namespace box_line_crossover
             ChildForm resultForm = new ChildForm(parents, crossoverType, alfa);
             resultForm.ShowDialog();
             //Form1.ActiveForm.Close();
-            
-            
         }
 
+        private void crossoverTypeCombo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (crossoverTypeCombo.SelectedIndex == 0 || crossoverTypeCombo.SelectedIndex == 2)
+            {
+                alfaTb.Text = "0";
+                alfaTb.Enabled = false;
+            }
+            else
+            {
+                alfaTb.Text = "0.1";
+                alfaTb.Enabled = true;
+            }
+
+        }
     }
 }

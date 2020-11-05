@@ -83,7 +83,7 @@
             this.x2Tb.Name = "x2Tb";
             this.x2Tb.Size = new System.Drawing.Size(84, 34);
             this.x2Tb.TabIndex = 22;
-            this.x2Tb.Text = "20";
+            this.x2Tb.Text = "200";
             // 
             // y1Tb
             // 
@@ -92,7 +92,7 @@
             this.y1Tb.Name = "y1Tb";
             this.y1Tb.Size = new System.Drawing.Size(84, 34);
             this.y1Tb.TabIndex = 21;
-            this.y1Tb.Text = "100";
+            this.y1Tb.Text = "400";
             // 
             // y2Tb
             // 
@@ -101,7 +101,7 @@
             this.y2Tb.Name = "y2Tb";
             this.y2Tb.Size = new System.Drawing.Size(84, 34);
             this.y2Tb.TabIndex = 20;
-            this.y2Tb.Text = "60";
+            this.y2Tb.Text = "300";
             // 
             // x1Tb
             // 
@@ -110,7 +110,7 @@
             this.x1Tb.Name = "x1Tb";
             this.x1Tb.Size = new System.Drawing.Size(84, 34);
             this.x1Tb.TabIndex = 19;
-            this.x1Tb.Text = "30";
+            this.x1Tb.Text = "200";
             // 
             // label5
             // 
@@ -181,6 +181,7 @@
             this.crossoverTypeCombo.Size = new System.Drawing.Size(360, 35);
             this.crossoverTypeCombo.TabIndex = 13;
             this.crossoverTypeCombo.UseWaitCursor = true;
+            this.crossoverTypeCombo.SelectedIndexChanged += new System.EventHandler(this.crossoverTypeCombo_SelectedIndexChanged);
             // 
             // label8
             // 
