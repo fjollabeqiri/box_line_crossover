@@ -7,3 +7,5 @@ C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.csproj.G
 C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.exe
 C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.pdb
+C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.Form1.resources
+C:\Users\Asus\Documents\box_line_crossover\obj\Debug\box_line_crossover.ChildForm.resources
